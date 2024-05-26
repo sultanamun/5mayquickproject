@@ -1,0 +1,203 @@
+
+ 
+/* header start*/
+ header{
+   border: 3px solid #F5F6F7;
+   padding: 10px 0;
+ }
+ .container{
+      width: 90%;
+     
+      margin: 0 auto;
+      overflow: hidden;
+ }
+ .logo{
+ 	width: 15%;
+float: left;
+ }
+ .logo img{
+ 	width: 100%;
+
+ }
+
+ .menu{
+ 	width: 45%;
+ 	float: right;
+margin-top: 3px;
+ }
+ .menu ul{
+ 	float: right;
+ }
+ .menu ul li{
+ 	list-style: none;
+ 	float: left;
+ }
+ .menu ul li a{
+ 	font-family: sans-serif;
+   text-decoration: none;
+    margin: 0px 20px;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 400;
+ }
+
+.menu ul li:last-child a{
+   margin-right: 0;
+}
+/*header end*/
+
+/*banner start*/
+.banner{
+padding: 60px 0;
+
+}
+.container2{
+width: 55%;
+  margin: 0 auto;
+ 
+}
+
+.b_content{
+   font-family: sans-serif;
+   text-align: center;
+}
+.b_content h1{
+   margin: 0;
+font-size: 45px;
+font-weight: 700;
+color:#0F2656;
+}
+.b_content h2{
+   margin: 10px 0;
+font-size: 45px;
+font-weight: 700;
+color:#008AFF
+}
+.b_content p{
+   margin-top: 0;
+   margin-bottom: 15px;
+font-size: 16px;
+font-weight: 400;
+color:#0F2656 ;
+line-height: 23px;
+word-spacing: 1px;
+}
+.b_img{
+margin: 0 auto;
+width: 75%;
+
+}
+.b_img img{width: 100%;
+
+}
+/*banner end*/
+/*success start*/
+/*success end*/
+.success{
+padding: 60px;
+}
+.s_content{
+   overflow: hidden;
+   font-family: sans-serif;
+}
+.s_left{
+   width: 40%;
+   
+   float: left;
+   text-align: right;
+   padding: 0 10px 0px 20px;
+}
+.s_left h2{
+font-size: 40px;
+font-weight: 700;
+color: #F15767;
+}
+.s_left p{
+font-size: 16px;
+font-weight: 400;
+color: #0F2656;
+}
+.s_right{
+width: 50%;
+
+float: right;
+}
+.s_right h1{
+ font-size: 40px;
+font-weight: 700;
+color:#0F2656 ;
+}
+/*success end*/
+/*feature start*/
+.f_content{
+   overflow: hidden;
+margin-top: 25px;
+}
+.f_single{
+width: 26%;
+font-family: sans-serif;
+color: #0F2656;
+padding: 30px 1.5% 45px;
+float: left;
+margin-right: 2.5%;
+}
+.f_single:last-child{
+   margin-right: 0;
+}
+
+
+.pink{
+   background-color:#FEEBED ;
+}
+.green{
+   background-color:#EAF9F4 ;
+}
+.yellow{
+   background-color:#FFF8E8 ;
+}
+
+.f_img{}
+.f_img img{
+   width: 100%;
+}
+.f_single h2{
+margin: 20px 0;
+font-size: 22px;
+font-weight: 700;
+}
+.f_single p{
+font-size: 16px;
+font-weight: 400;
+margin: 0;
+}
+/*feature end*/
+
+/*footer start*/
+footer{
+   text-align: center;
+   height:100px ;
+background-color: #008AFF;
+}
+footer p{
+line-height: 100px;
+color: white;
+<}
+footer a{
+color: white;
+text-decoration: none;
+}
+/*footer end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
